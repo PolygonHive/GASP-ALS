@@ -37,7 +37,7 @@ This project is licensed under the MIT License.
 
 For questions, suggestions, or feedback, please contact:
 
-- Anas EL FERACHI - [elferachi.anas.pro@gmail.com](mailto:elferachi.anas.pro@gmail.com)
+- Anas EL FERACHI - [anas@polygonhive.com](mailto:anas@polygonhive.com)
 
 ---
 
