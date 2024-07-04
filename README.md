@@ -31,7 +31,7 @@ Please ensure your code follows the project's coding and naming standards.
 
 ## License
 
-This project is licensed under the MIT License.
+UE-Only Content - Licensed for Use Only with Unreal Engine-based Products
 
 ## Contact
 
