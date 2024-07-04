@@ -31,7 +31,7 @@ Please ensure your code follows the project's coding and naming standards.
 
 ## License
 
-UE-Only Content - Licensed for Use Only with Unreal Engine-based Products
+[UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
 
 ## Contact
 
