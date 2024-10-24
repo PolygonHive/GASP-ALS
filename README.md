@@ -14,6 +14,10 @@ This project integrates the ALS Overlay Layering System into the new Unreal Engi
 - Basic overlay switcher widget from ALS
 - Removed Echo and Twinblast characters and Manny/Quinn 4k textures to lower project size
 
+## Overview
+
+An overview of the system is available on my YouTube channel [Polygon Hive](https://www.youtube.com/watch?v=RDWNfIqvWBk&list=PLs9e0eJQMI2aaulgKJzC8feN1UEwDkEnq)
+
 ## Contributing
 
 Contributions are welcome! I hope that, with the help of the community, we can turn this into a next-gen fully featured locomotion system. 
