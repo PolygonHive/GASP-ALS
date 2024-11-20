@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "Samples",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,18 @@
 		},
 		{
 			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
 			"Enabled": true
 		},
 		{
@@ -36,11 +48,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "RigLogic",
+			"Name": "Mover",
 			"Enabled": true
 		},
 		{
-			"Name": "LiveLink",
+			"Name": "NetworkPrediction",
 			"Enabled": true
 		}
 	],
