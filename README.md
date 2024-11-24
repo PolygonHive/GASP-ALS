@@ -43,6 +43,9 @@ For questions, suggestions, or feedback, please contact:
 
 - Anas EL FERACHI - [anas@polygonhive.com](mailto:anas@polygonhive.com)
 
+## Support My Work
+
+- [Buy Me A Coffee](https://buymeacoffee.com/PolygonHive)
 ---
 
 Thanks for checking out the project! I hope it helps you create amazing games.
