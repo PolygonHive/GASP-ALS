@@ -1,9 +1,9 @@
-# Game Animation Sample with Overlay Layering
+# Game Animation Sample with Overlay Layering | Unreal Engine 5
 
 ## Introduction
 
-Advanced Locomotion System (ALS) provides a nice Overlay System that allows us to alter the entire locomotion animation just by applying simple overlay poses. 
 This project integrates the ALS Overlay Layering System into the new Unreal Engine Motion Matching Game Animation Sample.
+Advanced Locomotion System (ALS) provides a nice Overlay System that allows us to alter the entire locomotion animation just by applying simple overlay poses. 
 
 ## Features
 
