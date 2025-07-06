@@ -11,5 +11,9 @@
 				"Editor"
 			]
 		},
+		{
+			"Name": "GASPALS",
+			"Enabled": true
+		}
 	]
 }
